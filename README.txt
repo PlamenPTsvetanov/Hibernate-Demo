@@ -1,0 +1,3 @@
+Different databases made with Hibernate code first method. "Gringotts" consists of small introduction to Hibernate, "Sales" consists of simple relations 
+between customers, products, sales made and store location. "University" shows connections between teachers and students. "Hospital" is a simplified demo
+of a hospital check-in system and "Billing" system shows relations between user and credit/debit cards.
